@@ -27,7 +27,7 @@ const secContent = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mor
                         semper in tellus.Sed congue et odio sed euismod.
                         `;
 const options = {
-    root: null,
+    root: 0px,
     threshold: 0.7,
     rootMargin: '-100px'
 }
