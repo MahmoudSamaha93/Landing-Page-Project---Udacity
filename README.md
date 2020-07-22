@@ -22,4 +22,4 @@ I used many important references like:
 ## Workability
 
 This project is workable on any device you have, just download the zip
-folder and unzip it, and open the index.html file on your browser.
+folder and unzip it, and open the (index.html) file on your browser.
