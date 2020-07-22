@@ -2,12 +2,24 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Description](#description)
+* [References](#references)
+* [Workability](#workability)
 
-## Instructions
+## Description
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This project is the first project of the FWD Initiative - professional track,
+and its about Manipulating the DOM. Its about an interactive page with dynamic
+navigation bar which is designed to be interactive with user during his work on
+the page.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## References
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+I used many important references like:
+- W3Schools (https://www.w3schools.com/).
+- MDN (https://developer.mozilla.org/).
+
+## Workability
+
+This project is workable on any device you have, just put the download the zip
+folder and unzip it, and open the index.html file on your browser.
