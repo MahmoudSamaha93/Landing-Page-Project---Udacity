@@ -27,9 +27,9 @@ const secContent = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mor
                         semper in tellus.Sed congue et odio sed euismod.
                         `;
 const options = {
-    root: 0px,
+    root: null,
     threshold: 0.7,
-    rootMargin: '-100px'
+    rootMargin: '0px'
 }
 
 const observer = new IntersectionObserver(callback, options);
